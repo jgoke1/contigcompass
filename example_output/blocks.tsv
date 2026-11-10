@@ -1,0 +1,3 @@
+query_id	block	query_start_0based	query_end_exclusive	reference_start_0based	reference_end_exclusive	strand	nonoverlapping_anchors	anchor_covered_bp
+reverse_contig	1	0	2976	6024	9000	-	96	2976
+forward_contig	1	0	2976	1000	3976	+	96	2976

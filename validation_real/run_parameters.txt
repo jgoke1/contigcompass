@@ -1,0 +1,12 @@
+ContigCompass 0.1.0
+k=31
+circular=true
+max_gap=10000
+drift=500
+min_block_bp=500
+min_query_fraction=0.5
+min_chain_support=0.9
+reference=validation/reference.fasta
+query=validation/query.fasta
+Coordinates: 0-based, half-open intervals. Reference placement coordinate is an anchor start, not an extrapolated full-contig start.
+SUCCESS

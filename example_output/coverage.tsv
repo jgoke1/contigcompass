@@ -1,0 +1,2 @@
+reference_id	reference_length_bp	reference_anchor_covered_bp	reference_anchor_coverage_percent	query_total_bp	query_anchor_covered_bp	query_anchor_coverage_percent
+synthetic_reference	12000	6000	50.000	6700	6000	89.552

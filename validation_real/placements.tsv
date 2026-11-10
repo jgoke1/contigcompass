@@ -1,0 +1,2 @@
+query_id	length_bp	anchor_count	exact_anchor_covered_bp	exact_anchor_coverage_percent	status	export_strand	reference_anchor_start_0based	dominant_chain_support_fraction
+CP025031.1	2632932	2092571	2231218	84.743	ambiguous_blocks	unchanged	NA	0.0700

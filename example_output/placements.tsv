@@ -1,0 +1,4 @@
+query_id	length_bp	anchor_count	exact_anchor_covered_bp	exact_anchor_coverage_percent	status	export_strand	reference_anchor_start_0based	dominant_chain_support_fraction
+reverse_contig	3000	2970	3000	100.000	placed	-	6024	1.0000
+forward_contig	3000	2970	3000	100.000	placed	+	1000	1.0000
+unknown_contig	700	0	0	0.000	no_matching_anchors	unchanged	NA	0.0000
